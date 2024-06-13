@@ -32,6 +32,15 @@ def preprocess_data(pdb_files, fasta_files):
 
 
 def process_pdb_and_fasta(pdb_file, fasta_file, tokenizer, model):
+    '''
+
+    :param pdb_file:
+    :param fasta_file:
+    :param tokenizer:
+    :param model:
+    :return:
+    缺少数据集，以下代码仅用于练习。
+    '''
     # 处理PDB文件
     ppdb = PandasPdb().read_pdb(pdb_file)
     atoms = ppdb.df['ATOM']

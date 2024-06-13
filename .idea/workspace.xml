@@ -4,26 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="a039020e-4f91-44ab-9c3f-8978cc8b6a44" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/proAffinity_GNN.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/config/_init_.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/config/config.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/datasets/_init_.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/datasets/data_loader.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/model/_init_.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/model/module/_init_.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/model/module/attentive_fp.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/model/networks/_init_.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/model/networks/proAffinity_GNN.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/readme.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tools/_init_.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tools/train.py" afterDir="false" />
+    <list default="true" id="a039020e-4f91-44ab-9c3f-8978cc8b6a44" name="Changes" comment="initialize the repo">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/readme.md" beforeDir="false" afterPath="$PROJECT_DIR$/readme.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -84,6 +67,30 @@
       <option name="presentableId" value="Default" />
       <updated>1718245170575</updated>
     </task>
+    <task id="LOCAL-00001" summary="initialize the repo">
+      <option name="closed" value="true" />
+      <created>1718258100652</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1718258100652</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="initialize the repo" />
+    <option name="LAST_COMMIT_MESSAGE" value="initialize the repo" />
   </component>
 </project>
