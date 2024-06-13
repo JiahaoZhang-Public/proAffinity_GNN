@@ -1,7 +1,7 @@
 # ProAffinity-GNN
 
 ## 项目描述
-本项目实现了论文["ProAffinity-GNN: A Novel Approach to Structure-based Protein-Protein Binding Affinity Prediction via a Curated Dataset and Graph Neural Networks"](https://www.biorxiv.org/content/10.1101/2024.03.14.584935v1)
+本项目用于复现论文["ProAffinity-GNN: A Novel Approach to Structure-based Protein-Protein Binding Affinity Prediction via a Curated Dataset and Graph Neural Networks"](https://www.biorxiv.org/content/10.1101/2024.03.14.584935v1)
 中的模型。
 
 ## 文件结构
